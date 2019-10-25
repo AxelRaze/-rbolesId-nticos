@@ -1,0 +1,8 @@
+# 13.4 Problemas: Escribir un método booleano IDENTICOS() que permita decir si dos árboles binarios son iguales
+# Un nodo de un arbol binario contiene datos, y apunta hacia el hijo izquierdo y apunta hacia el hijo derecho
+class Node:
+    # Metodo constructor para crear un nuevo nodo
+    def __init__(self, data):
+        self.data = data
+        self.left = None
+        self.right = None
