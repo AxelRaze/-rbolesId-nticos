@@ -3,10 +3,12 @@ Escribir un método booleano IDENTICOS() que permita decir si dos árboles binar
 
 Integrantes del equipo:
 
-Axel Ortiz Borja
+Ortiz Borja Axel 
 
-Yetlanezi Sánchez Gómez
+Sánchez Gómez Yetlanezi 
 
-Ma. de los Ángeles Lira Flores
+Lira Flores Ma. de los Ángeles 
 
-Julio César Arzate Aguirre
+Arzate Aguirre Julio César 
+
+Silva Juan Angel Alexis
