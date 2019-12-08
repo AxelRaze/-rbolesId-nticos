@@ -1,5 +1,6 @@
 # ArbolesIdenticos
 Escribir un método booleano IDENTICOS() que permita decir si dos árboles binarios son iguales
+
 Integrantes del equipo:
 
 Axel Ortiz Borja
